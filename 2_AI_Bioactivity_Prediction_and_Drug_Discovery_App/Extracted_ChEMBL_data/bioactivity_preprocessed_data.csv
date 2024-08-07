@@ -1,4 +1,4 @@
-molecule_chembl_id,canonical_smiles,standard_value,0
+molecule_chembl_id,canonical_smiles,standard_value,bioactivity_class
 CHEMBL187579,Cc1noc(C)c1CN1C(=O)C(=O)c2cc(C#N)ccc21,7200.0,intermediate
 CHEMBL188487,O=C1C(=O)N(Cc2ccc(F)cc2Cl)c2ccc(I)cc21,9400.0,intermediate
 CHEMBL185698,O=C1C(=O)N(CC2COc3ccccc3O2)c2ccc(I)cc21,13500.0,inactive
@@ -30,7 +30,6 @@ CHEMBL207458,CCOC(=O)c1cnc(SCC(=O)Nc2ccc([N+](=O)[O-])cc2)nc1N,250000.0,inactive
 CHEMBL207484,COC(OC)c1cc(O)nc(SCC(=O)Nc2ccc(C(F)(F)F)cc2)n1,204173.79,inactive
 CHEMBL207484,COC(OC)c1cc(O)nc(SCC(=O)Nc2ccc(C(F)(F)F)cc2)n1,200000.0,inactive
 CHEMBL207207,Cc1cc(O)nc(SCC(=O)Nc2cc(Cl)ccc2Oc2ccccc2)n1,100000.0,inactive
-CHEMBL207207,Cc1cc(O)nc(SCC(=O)Nc2cc(Cl)ccc2Oc2ccccc2)n1,100000.0,inactive
 CHEMBL210487,CCC(Sc1nc(O)c(C#N)c(-c2cccc(OC)c2)n1)C(=O)Nc1ccc(C(C)=O)cc1,60255.96,inactive
 CHEMBL210487,CCC(Sc1nc(O)c(C#N)c(-c2cccc(OC)c2)n1)C(=O)Nc1ccc(C(C)=O)cc1,60000.0,inactive
 CHEMBL380470,COc1ccc(NC(=O)CSc2nc(O)cc(-c3ccccc3)n2)cc1OC,45708.82,inactive
@@ -43,7 +42,6 @@ CHEMBL210097,O=C(CSc1nccc(-c2cc(-c3ccc(Cl)cc3Cl)no2)n1)Nc1ccc(C(F)(F)F)cc1,15135
 CHEMBL210097,O=C(CSc1nccc(-c2cc(-c3ccc(Cl)cc3Cl)no2)n1)Nc1ccc(C(F)(F)F)cc1,15000.0,inactive
 CHEMBL378674,CSc1sc(-c2nc(C)cs2)c(C)c1-c1ccnc(SCC(=O)Nc2ccccc2Cl)n1,12022.64,inactive
 CHEMBL378674,CSc1sc(-c2nc(C)cs2)c(C)c1-c1ccnc(SCC(=O)Nc2ccccc2Cl)n1,12000.0,inactive
-CHEMBL210216,Cc1nc(SCC(=O)Nc2ccc([N+](=O)[O-])cc2)nc(O)c1C,1000000.0,inactive
 CHEMBL210216,Cc1nc(SCC(=O)Nc2ccc([N+](=O)[O-])cc2)nc(O)c1C,1000000.0,inactive
 CHEMBL210195,Cc1cc(C(F)(F)F)nc(SCC(=O)Nc2ccc(Cl)cc2F)n1,501187.23,inactive
 CHEMBL210195,Cc1cc(C(F)(F)F)nc(SCC(=O)Nc2ccc(Cl)cc2F)n1,500000.0,inactive
@@ -75,7 +73,6 @@ CHEMBL209227,Cc1nc(-c2nc(-c3ccnc(SCC(=O)Nc4ccc(Cl)cc4)n3)cs2)cs1,14125.38,inacti
 CHEMBL209227,Cc1nc(-c2nc(-c3ccnc(SCC(=O)Nc4ccc(Cl)cc4)n3)cs2)cs1,14000.0,inactive
 CHEMBL210092,CSc1sc(-c2nc(C)cs2)c(C)c1-c1ccnc(SCC(=O)Nc2ccc(Cl)cc2)n1,11220.18,inactive
 CHEMBL210092,CSc1sc(-c2nc(C)cs2)c(C)c1-c1ccnc(SCC(=O)Nc2ccc(Cl)cc2)n1,11000.0,inactive
-CHEMBL377150,Cn1nc(-c2ccc(-c3ccnc(SCC(=O)Nc4ccc(Cl)cc4)n3)s2)cc1C(F)(F)F,10000.0,inactive
 CHEMBL377150,Cn1nc(-c2ccc(-c3ccnc(SCC(=O)Nc4ccc(Cl)cc4)n3)s2)cc1C(F)(F)F,10000.0,inactive
 CHEMBL212454,O=C(Oc1ccc(S(=O)(=O)c2ccc(OC(=O)C(Cl)=C(Cl)Cl)cc2)cc1)C(Cl)=C(Cl)Cl,900.0,active
 CHEMBL213581,Nc1ncc(S(=O)(=O)c2ccc(Cl)cc2)c(N)n1,6000.0,intermediate
